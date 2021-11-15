@@ -1,4 +1,4 @@
-#PUZZLE SOLVER
+# PUZZLE SOLVER
 
 This repository contains my take on the puzzle solving program using graph traversal algorithms: **bfs**, **dfs**,
 **iterative dfs** and **A star**
